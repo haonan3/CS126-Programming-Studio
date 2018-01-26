@@ -1,0 +1,7 @@
+{
+  maxStartingBunnies: 5000,
+  //maxStartingBunnies: 20,
+  maxStartingWolves: 50
+  //maxStartingWolves: 5
+
+}

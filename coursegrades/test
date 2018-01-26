@@ -1,0 +1,61 @@
+{
+    "data": {
+        "partnerteamlist": [
+            {
+                "pteamId": 72825,
+                "ptitle": "随摄影/共6套服装/准爸准妈共拍/免费肚画/底片全送。",
+                "pteamprice": 288
+            },
+            {
+                "pteamId": 72598,
+                "ptitle": "随摄影/拍摄200张/4本相册/品质拍摄/送全新婚纱。",
+                "pteamprice": 2888
+            },
+            {
+                "pteamId": 72613,
+                "ptitle": "随摄影/送全新婚纱/多外景拍摄/服装不限数量/绝无二次消费！",
+                "pteamprice": 3699
+            },
+            {
+                "pteamId": 72638,
+                "ptitle": "随摄影/服装不限数量/高品质拍摄260张/送全新婚纱。",
+                "pteamprice": 4299
+            },
+            {
+                "pteamId": 72716,
+                "ptitle": "随摄影/3组服装造型/内外景拍摄/完全透明消费！",
+                "pteamprice": 388
+            }
+        ],
+        "liketeamlist": [
+            {
+                "lteamId": 65886,
+                "ltitle": "爱丽尔婚纱摄影/2本相册/6套服装造型/拍摄不限最低拍摄150张。",
+                "limage": "http://img.pztuan.com/upfile/team/2013/0712/201307120257551465.jpg",
+                "lteamprice": 518,
+                "lmarketprice": 3999
+            },
+            {
+                "lteamId": 57133,
+                "ltitle": "陶冶摄影/婚纱闺蜜/6组服装造型/拍摄不低于120张！",
+                "limage": "http://img.pztuan.com/upfile/team/2013/0628/201306281115249737.jpg",
+                "lteamprice": 580,
+                "lmarketprice": 3380
+            }
+        ],
+        "feedbacks": {
+            "feedbacklist": [
+                {
+                    "comment": "5分",
+                    "createtime": "2014.07.08 13:38",
+                    "score": 5,
+                    "username": "l***2"
+                }
+            ],
+            "totalcount": 1,
+            "totalscore": 5
+        }
+    },
+    "err": null,
+    "state": 1
+}
